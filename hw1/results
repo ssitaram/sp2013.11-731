@@ -1,0 +1,20 @@
+Baseline heuristic dice results with 1000
+Precision = 0.136701
+Recall = 0.466878
+AER = 0.793718
+
+Baseline heuristic dice results with 10000
+Precision = 0.149023
+Recall = 0.378788
+AER = 0.789858
+
+Threshold = 0.6, 10000
+Precision = 0.145142
+Recall = 0.283650
+AER = 0.809753
+
+Threshold = 0.4, 10000
+Precision = 0.136450
+Recall = 0.442565
+AER = 0.795705
+
