@@ -66,22 +66,22 @@ def run_EM(no_of_iter, ten_de):
     
 #target language EN
 ENINP = open("../data/en.txt", "r")
-en_inp = ENINP.readlines()[:35000]
+en_inp = ENINP.readlines()[:50000]
 ENINP.close()
 
 #source language DE
 DEINP = open("../data/de.txt", "r")
-de_inp = DEINP.readlines()[:35000]
+de_inp = DEINP.readlines()[:50000]
 DEINP.close()
 
 ten_de_init = init_prob_unit()
 ten_de_final = run_EM(5, ten_de_init)
 
-OUT = open("trans_prob_table.txt", "w")
+OUT = open("trans_prob_table3.txt", "w")
 OUT.close()
 for de_word in ten_de_final.conditions():
     for en_word in ten_de_final[de_word]:
-        OUT = open("trans_prob_table.txt", "a")
+        OUT = open("trans_prob_table3.txt", "a")
         ###source word - target word - probability####
         OUT.write(de_word+"\t"+en_word+"\t"+str(ten_de_final[de_word][en_word])+"\n")
         OUT.close()
