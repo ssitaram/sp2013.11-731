@@ -1,17 +1,10 @@
-There are three Python programs here (`-h` for usage):
+Summary of my method:
+The base model I used was IBM model1, run on 8 iterations with the entire data. I used a few heuristics while calculating the most probable source word aligned to the target word, which were:
+1. Noticing that many punctuation marks got aligned to words, I aligned all punctuations to themselves if they were present in the source candidates
+2. Many German and English words are same (like proper nouns) so I aligned them if there was an exact match in source and target
+3. Some English words are very similar to German words and have affixes in German. So I aligned German and English words that had a substring match on an English word. This can backfire for small words, so the minimum length of the English word had to be 5.
 
- - `./align` aligns words using Dice's coefficient.
- - `./check` checks for out-of-bounds alignment points.
- - `./grade` computes alignment error rate.
+I also had some ideas to use the development gold standard labels, but unfortunately it did not give me an improvement in AER. Originally, I wanted to use a German-English dictionary, but since I did not find any on the web that I could use easily, I decided to try and construct a "dictionary" using the gold standard alignments. I extracted all the "sure" aligned words and created a dictionary with counts of how many times the words were aligned to the target word. Then while aligning source and target words I looked up the dictionary and one of the source words was found in the dictionary, I used it for alignment. Using this technique gave me worse results than the baseline, and I suspect it is because the dictionary was quite small, since the dev data was relatively small.
 
-The commands are designed to work in a pipeline. For instance, this is a valid invocation:
-
-    ./align -t 0.9 -n 1000 | ./check | ./grade -n 5
-
-
-The `data/` directory contains a fragment of the German/English Europarl corpus.
-
- - `data/dev-test-train.de-en` is the German/English parallel data to be aligned. The first 150 sentences are for development; the next 150 is a blind set you will be evaluated on; and the remainder of the file is unannotated parallel data.
-
- - `data/dev.align` contains 150 manual alignments corresponding to the first 150 sentences of the parallel corpus. When you run `./check` these are used to compute the alignment error rate. You may use these in any way you choose. The notation `i-j` means the word at position *i* (0-indexed) in the German sentence is aligned to the word at position *j* in the English sentence; the notation `i?j` means they are "probably" aligned.
-
+To construct the probabilty table, run IBMModel.py
+To align using heuristics mentioned above, run getBestAlignmentHeuristics.py

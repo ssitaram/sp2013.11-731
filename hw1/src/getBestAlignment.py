@@ -15,7 +15,7 @@ OUT.close()
 
 
 #translation probability table
-TPT = open("trans_prob_table3.txt", "r")
+TPT = open("../../../../tpts/trans_prob_table3.txt", "r")
 trans_prob_table = TPT.read()
 TPT.close()
 prob_dd = dd(lambda: dd (lambda: 0.0)) 

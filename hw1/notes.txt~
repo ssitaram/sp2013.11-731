@@ -1,0 +1,8 @@
+Results
+
+0.469867	EM 10 70k sentences
+0.44547		EM 5 60k? sentences (tpt 3) BEST SO FAR
+0.444811    Best so far + punctuation feats + quotes feats
+0.441645	Best so far + punc and quotes + same word feat + substr- just need 0.008 accuracy to beat baseline!
+
+5 iterations of IBM full done at 11 am - 3 more to go, 120 minutes. So 2 hours, expect to get over by 1:30 pm.

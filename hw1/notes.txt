@@ -1,0 +1,8 @@
+Results
+
+0.469867	EM 10 70k sentences 
+0.44547		EM 5 60k? sentences (tpt 3) BEST SO FAR
+0.444811    Best so far + punctuation feats + quotes feats
+0.441645	Best so far + punc and quotes + same word feat + substr
+0.434129	FullIBMmodel (potentially has \r bug) + all heuristics (> baseline)
+			FullIBMmodel + all heuristics 
