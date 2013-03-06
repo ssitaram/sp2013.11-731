@@ -1,19 +1,12 @@
-There are three Python programs here (`-h` for usage):
+Methods I tried:
 
- - `./evaluate` evaluates pairs of MT output hypotheses relative to a reference translation using counts of matched words
- - `./check` checks that the output file is correctly formatted
- - `./grade` computes the accuracy
+1. Simple METEOR with 10PR/9P+R(lower than baseline)
 
-The commands are designed to work in a pipeline. For instance, this is a valid invocation:
+2. METEOR including bigrams and trigrams (sort of like a combination of BLEU and METEOR, 0.509925, higher than baseline)
+python meteor.py
 
-    ./evaluate | ./check | ./grade
+3. 2 + stemming words in hyp1, hyp2 and reference and removing punctuation (0.516887)
+python meteor-stem.py
 
-
-The `data/` directory contains a training set and a test set
-
- - `data/train.hyp1-hyp2-ref` is a file containing tuples of two translation hypotheses and a human (gold standard) translation.
-
- - `data/train.gold` contains gold standard human judgements indicating whether the first hypothesis (hyp1) or the second hypothesis (hyp2) is better or equally good/bad.
-
- - `data/test.hyp1-hyp2-ref` is a blind test set containing tuples of two translation hypotheses and a human (gold standard) translation. You will be graded on how well your predictions correlate with human judgements.
-
+4. 3 + synonym matching of hyp1 and hyp2 with reference words (0.51842)
+python meteor-syn.py
