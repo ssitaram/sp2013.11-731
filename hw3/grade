@@ -22,7 +22,7 @@ def logadd(x,y):
     return x + math.log(1 + math.exp(y-x)) if y < x else y + math.log(1 + math.exp(x-y))
 
 parser = argparse.ArgumentParser(description='Compute unnormalized translation probability by marginalizing over alignments.')
-parser.add_argument('-i', '--input', dest='input', default='data/input', help='File containing sentences to translate (default=data/input)')
+parser.add_argument('-i', '--input', dest='input', default='data/input.txt', help='File containing sentences to translate (default=data/input)')
 parser.add_argument('-t', '--translation-model', dest='tm', default='data/tm', help='File containing translation model (default=data/tm)')
 parser.add_argument('-l', '--language-model', dest='lm', default='data/lm', help='File containing ARPA-format language model (default=data/lm)')
 opts = parser.parse_args()

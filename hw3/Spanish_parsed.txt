@@ -1,0 +1,1020 @@
+Content-Type: text/plain; charset=utf-8
+
+
+el		[el] <artd> <dem> DET M S @>N
+ejército		[ejército] <HH> <'army'> N M S @SUBJ>
+turco		[turco] <'turkish'> ADJ M S @N<
+no		[no] ADV @ADVL>
+tiene		[tener] <vq> <'have'> V PR 3S IND VFIN @FMV
+interés		[interés] <'interest'> <f-psych> N M S @<ACC
+en		[en] PRP @<PIV
+correr		[correr] <'course'> V INF @IMV @#ICL-P<
+los		[el] <artd> <dem> DET M P @>N
+riesgos		[riesgo] <ac> <act-d> <f> <'risk'> N M P @<SC
+que		[que] <rel> SPEC MF SP @ACC> @#FS-N<
+entraña		[entrañar] <'entail'> V PR 3S IND VFIN @FMV
+la		[la] <artd> <dem> DET F S @>N
+participación		[participación] <'participation'> <act> N F S @<SUBJ
+en		[en] PRP @N<
+las		[la] <artd> <dem> DET F P @>N
+luchas		[lucha] <activity> <'struggle'> N F P @P<
+sectarias		[sectario] <'sectarian'> ADJ F P @N<
+en		[en] PRP @N<
+el		[el] <artd> <dem> DET M S @>N
+iraq		[iraq] <heur> N M S @P<
+.
+erdogan		[erdogan] <heur> N M S @SUBJ>
+no		[no] ADV @ADVL>
+tiene		[tener] <vq> <'have'> V PR 3S IND VFIN @FMV
+intención		[intención] <sem-c> <'intention'> N F S @<ACC
+de		[de] PRP @N<
+dejar		[dejar] <sam1> <vq> <'let'> <'leave'> V INF @IMV @#ICL-P<
+se		[se] <refl> <sam2> PERS MF 3S/P ACC/DAT @ACC>
+arrastrar		[arrastrar] <'drag'> V INF @IMV @#ICL-<ACC
+hasta		[hasta] PRP @<ADVL
+esa		[ese] <dem> DET F S @>N
+trampa		[trampa] <Ltrap> <'trap'> <act-d> <'trick'> N F S @P<
+.
+el		[el] <artd> <dem> DET M S @>N
+pequeño		[pequeño] <'piddling'> ADJ M S @>N
+costo		[costo] <mon> <'cost'> <'expense'> N M S @SUBJ>
+impuesto		[imponer] <'impose'> V PCP M S @N<
+a		[a] PRP @A<ADVL
+quienes		[quienes] <rel> SPEC MF P @P< @#FS-N<
+no		[no] ADV @ADVL>
+votan		[votar] <'vote'> <'vote=for'> V PR 3P IND VFIN @FMV
+hace		[hacer] <vq> <'make'> V PR 3S IND VFIN @FMV
+que		[que] KS @SUB @#FS-<ACC
+resulte		[resultar] <vk+ADJ>> <'result'> V PR 1/3S SUBJ VFIN @FMV
+racional		[racional] <'reasonable'> ADJ MF S @<SC
+para		[para] PRP @<ADVL
+todo=el		[todo=el] <quant1> DET M S @>N
+mundo		[mundo] <L> <HH> <'world'> N M S @P<
+votar		[votar] <'vote'> <'vote=for'> V INF @IMV @#ICL-<SUBJ
+y		[y] <co-fin> KC @CO
+al=mismo=tiempo		[al=mismo=tiempo] <atemp> <'at=the=same=time'> ADV @ADVL>
+establece		[establecer] <vq> <'establish'> V PR 3S IND VFIN @FMV
+una		[un] <quant2> <arti> DET F S @>N
+norma		[norma] <sem-c> <conv> <'norm'> N F S @<ACC
+social		[social] <'social'> ADJ MF S @N<
+de		[de] PRP @N<
+votación		[votación] <act> <'election'> N F S @P<
+.
+los		[el] <artd> <dem> DET M P @>N
+australianos		[australiano] <Hnat> <'Australian'> N M P @SUBJ>
+quieren		[querer] <'want'> <'like'> <'love'> V PR 3P IND VFIN @FMV
+ser		[ser] <'be'> V INF @IMV @#ICL-<ACC
+obligados		[obligar] <'force'> <'oblige'> V PCP M P @IMV
+a		[a] PRP @<PIV
+votar		[votar] <'vote'> <'vote=for'> V INF @IMV @#ICL-P<
+.
+además		[además] <kc> <'also'> <'furthermore'> ADV @ADVL>
+un		[un] <quant2> <arti> DET M S @>N
+ambiente		[ambiente] <L> <'environment'> <sit> <'atmosphere'> N M S @SUBJ>
+empresarial		[empresarial] <'enterprising'> ADJ MF S @N<
+inflexible		[inflexible] <'intractable'> ADJ MF S @N<
+y		[y] KC @CO
+desfavorable		[desfavorable] <'adverse'> <'unfavorable'> ADJ MF S @N<
+para		[para] PRP @ADVL>
+la		[la] <artd> <dem> DET F S @>N
+familia		[familia] <HH> <'family'> N F S @P<
+ya		[ya] <atemp> <'already'> ADV @ADVL>
+no		[no] ADV @ADVL>
+es		[ser] <'be'> V PR 3S IND VFIN @FMV
+la		[la] <artd> <dem> DET F S @>N
+única		[único] <'only'> ADJ F S @>N
+opción		[opción] <sem-c> <'option'> N F S @<SC
+para		[para] PRP @N<
+las		[la] <artd> <dem> DET F P @>N
+mujeres		[mujer] <H> <'woman'> <Hfam> <'wife'> N F P @P<
+que		[que] <rel> SPEC MF SP @SUBJ> @#FS-N< @ACC>
+trabajan		[trabajar] <'work'> V PR 3P IND VFIN @FMV
+.
+a=lo=largo=de		[a=lo=largo=de] <sam1> <'next=to'> <'by'> PRP @ADVL>
+el		[el] <artd> <dem> <sam2> DET M S @>N
+último		[último] <'final'> ADJ M S @>N
+año		[año] <dur> <per> <temp> <'year'> N M S @P<
+y		[y] KC @CO
+medio		[medio] <quant2> <'half'> DET M S @P<
+llegaron		[llegar] <ve> <va+LOC> <'arrive'> V PS 3P IND VFIN @FMV
+a		[a] <sam1> PRP @<PIV
+el		[el] <artd> <dem> <sam2> DET M S @>N
+1,8		[1,8] <card> NUM MF P @>N
+billón		[billón] <amount> <'billion'> <'trillion'> N M S @P<
+de		[de] PRP @N<
+dólares		[dólar] <num+> <'dollar'> <cur> <ac-sign> N M P @P<
+con		[con] PRP @<ADVL
+mucho		[mucho] <quant2> <quant3> DET M S @P<
+las		[la] <artd> <dem> DET F P @>N
+mayores		[mayor] <KOMP> <'bigger'> <'major'> ADJ MF P @P<
+de		[de] <sam1> PRP @KOMP<
+el		[el] <artd> <dem> <sam2> DET M S @>N
+mundo		[mundo] <L> <HH> <'world'> N M S @P<
+.
+sin=embargo		[sin=embargo] <'however'> ADV @ADVL>
+la		[la] <artd> <dem> DET F S @>N
+paradoja		[paradoja] <sem-s> <'paradox'> N F S @SUBJ>
+es		[ser] <'be'> V PR 3S IND VFIN @FMV
+que		[que] KS @SUB @#FS-<ACC
+las		[la] <artd> <dem> DET F P @>N
+reservas		[reservas] <'stock'> N F P @SUBJ>		[reserva] <amount> <HH> <Lh> <'reserve'> <sem-c> <'reservation'> <f-psych> <'discretion'> N F P @SUBJ>
+de		[de] PRP @N<
+hoy		[hoy] <atemp> <'today'> ADV @P<
+no		[no] ADV @ADVL>
+son		[ser] <'be'> V PR 3P IND VFIN @FMV
+riquezas		[riqueza] <f-q> <'wealth'> N F P @<SC
+reales		[real] <'real'> ADJ MF P @N<
+que		[que] <rel> SPEC MF SP @SUBJ> @#FS-N<
+se		[se] <refl> PERS MF 3S/P ACC/DAT @ACC>
+puedan		[poder] <'can'> V PR 3P SUBJ VFIN @FAUX
+utilizar		[utilizar] <'use'> V INF @IMV @#ICL-AUX<
+para		[para] PRP @<ADVL
+estimular		[estimular] <'encourage'> V INF @IMV @#ICL-P<
+la		[la] <artd> <dem> DET F S @>N
+economía		[economía] <domain> <'economy'> N F S @<ACC
+local		[local] <'local'> ADJ MF S @N<
+.
+lo		[lo] <artd> DET M S @>N
+más		[más] <aquant> <KOMP> ADV @>A
+probable		[probable] <'probable'> ADJ MF S @SC>
+es		[ser] <'be'> V PR 3S IND VFIN @FMV
+que		[que] KS @SUB @#FS-<ACC
+eeuu		[eeuu] <heur> N M S @SUBJ>
+experimente		[experimentar] <vq> <'experience'> <'experiment'> V PR 1/3S SUBJ VFIN @FMV
+un		[un] <quant2> <arti> DET M S @>N
+tanto		[tanto] <aquant> ADV @<ADVL
+de		[de] PRP @<PRED
+desaceleración		[desaceleración] <act> <'slowdown'> N F S @P<
+como		[como] <rel> ADV @ADVL> @#FS-<ADVL
+ocurrió		[ocurrir] <ve> <'happen'> <'occur'> V PS 3S IND VFIN @FMV
+en		[en] PRP @<ADVL
+la		[la] <artd> <dem> DET F S @>N
+recesión		[recesión] <per> <'recession'> N F S @P<
+ligera		[ligero] <'light'> ADJ F S @N<
+de		[de] PRP @N<
+los		[el] <artd> <dem> DET M P @>N
+últimos		[último] <'last'> <ac-cat> N M P @>N
+dos		[dos] <card> <'two'> NUM MF P @>N
+años		[año] <dur> <per> <temp> <'year'> N M P @<ADVL
+.
+sin=embargo		[sin=embargo] <'however'> ADV @ADVL>
+no		[no] ADV @ADVL>
+vemos		[ver] <'see'> V PR/PS 1P IND VFIN @FMV
+que		[que] KS @SUB @#FS-<ACC
+se		[se] <refl> PERS MF 3S/P ACC/DAT @ACC>-PASS
+adopten		[adoptar] <'accept'> V PR 3P SUBJ VFIN @FMV
+los		[el] <artd> <dem> DET M P @>N
+impuestos		[imponer] <'impose'> V PCP M P @<SUBJ
+a		[a] <sam1> PRP @A<PIV
+el		[el] <artd> <dem> <sam2> DET M S @>N
+carbono		[carbono] <'carbon'> N M S @P<
+.
+lo=que		[lo=que] <rel> SPEC M S @ACC> @#FS-SUBJ>
+sí		[sí] ADV @ADVL>
+sabemos		[saber] <vq> <'know'> <'taste'> V PR/PS 1P IND VFIN @FMV
+es		[ser] <'be'> V PR 3S IND VFIN @FMV
+que		[que] KS @SUB @#FS-<ACC
+las		[la] <artd> <dem> DET F P @>N
+autoridades		[autoridad] <f-psych> <HH> <'authority'> N F P @SUBJ>
+chinas		[chino] <jnat> <'Chinese'> ADJ F P @N<
+nunca		[nunca] <atemp> <'never'> ADV @ADVL>
+enfrentaron		[enfrentar] <ante^vtp> <'confront'> V PS 3P IND VFIN @FMV
+un		[un] <quant2> <arti> DET M S @>N
+desafío		[desafío] <act> <f-psych> <'defiance'> N M S @<ACC
+de		[de] PRP @N<
+esta		[este] <dem> DET F S @>N
+magnitud		[magnitud] <'magnitude'> <f-q> N F S @P<
+con		[con] PRP @<PIV
+un		[un] <quant2> <arti> DET M S @>N
+potencial		[potencial] <'potential'> <f> <f-h> N M S @P<
+semejante		[semejante] <'similar'> ADJ MF S @N<
+para		[para] PRP @<ADVL
+hacer		[hacer] <sam1> <vq> <'make'> V INF @IMV @#ICL-P<
+le		[le] <sam2> PERS MF 3S DAT @<DAT
+ganar		[ganar] <'gain'> V INF @IMV @#ICL-<ACC
+o		[o] KC @CO
+perder		[perder] <'lose'> V INF @IMV @#ICL-<ACC
+prestigio		[prestigio] <'prestige'> <f-psych> N M S @<ACC
+.
+todo		[todo] <quant0> SPEC M S @SUBJ>
+esto		[esto] <dem> SPEC M S @SUBJ>
+plantea		[plantear] <vq> <'propose'> V PR 3S IND VFIN @FMV
+la		[la] <artd> <dem> DET F S @>N
+interrogante		[interrogante] <Hprof> <'interrogator'> <ac-sign> <'question=mark'> <sem-s> <'question'> <'query'> N M S @<SUBJ
+de		[de] PRP @N<
+si		[si] KS @SUB @#FS-<ADVL
+china		[china] <cc-stone> <'pebble'> <H> <Hprof> <'maid'> N F S @SUBJ>
+terminará		[terminar] <'terminate'> V FUT 3S IND VFIN @FMV
+por		[por] PRP @<ADVL
+reemplazar		[reemplazar] <'replace'> V INF @IMV @#ICL-P<
+a		[a] PRP @<ACC
+estados		[estado] <Lcountry> <'state'> N M P @P<
+unidos		[unido] <'united'> ADJ M P @N<
+como		[como] <rel> ADV @ADVL> @#FS-<ADVL
+potencia		[potenciar] <'potentiate'> V PR 3S IND VFIN @FMV
+hegemónica		[hegemónico] <'supreme'> ADJ F S @>N
+mundial		[mundial] <'worldwide'> ADJ MF S @<ACC
+que		[que] <rel> SPEC MF SP @ACC> @#FS-N<
+define		[definir] <vq> <'determine'> V PR 3S IND VFIN @FMV
+y		[y] <co-fin> KC @CO
+aplica		[aplicar] <'apply'> V PR 3S IND VFIN @FMV
+las		[la] <artd> <dem> DET F P @>N
+reglas		[regla] <conv> <'rule'> N F P @<ACC
+de		[de] PRP @N<
+la		[la] <artd> <dem> DET F S @>N
+economía		[economía] <domain> <'economy'> N F S @P<
+global		[global] <'global'> ADJ MF S @N<
+.
+esto		[esto] <dem> SPEC M S @SUBJ>
+es		[ser] <'be'> V PR 3S IND VFIN @FMV
+insostenible		[insostenible] <'indefensible'> ADJ MF S @<SC
+y		[y] <co-fin> KC @CO
+tarde		[tarde] <'late'> ADJ MF S @<SC
+o		[o] KC @CO
+temprano		[temprano] <'premature'> ADJ M S @SUBJ>
+precipitará		[precipitar] <'precipitate'> V FUT 3S IND VFIN @FMV
+una		[un] <quant2> <arti> DET F S @>N
+confrontación		[confrontación] <act> <'confrontation'> <'engagement'> N F S @<ACC
+de		[de] PRP @N<
+proporciones		[proporción] <'proportion'> <f-q> N F P @P<
+con		[con] PRP @<ADVL @N<
+estados		[estado] <Lcountry> <'state'> N M P @P<
+unidos		[unido] <'united'> ADJ M P @N<
+(		[par-l] PU
+y		[y] KC @CO
+europa		[europa] <'Europe'> N F S @<ACC
+)		[par-r] PU
+.
+cuanto=más		[cuanto=más] <aquant> <'the=more'> ADV @>A
+centralizado		[centralizar] <'centralize'> V PCP M S @SC>
+esté		[estar] <va+LOC> <va+QUAL> <'be'> V PS 1S IND VFIN @FMV
+el		[el] <artd> <dem> DET M S @>N
+poder		[poder] <HHnat> <'power'> N M S @<SUBJ
+político		[político] <jh> <'politisk'> <'political'> ADJ M S @N<
+más		[más] <quant2> <KOMP> DET MF SP @SUBJ>
+podrá		[poder] <'can'> V FUT 3S IND VFIN @FAUX
+obstaculizar		[obstaculizar] <'obstruct'> V INF @IMV @#ICL-AUX<
+la		[la] <artd> <dem> DET F S @>N
+autoridad		[autoridad] <f-psych> <HH> <'authority'> N F S @<ACC
+central		[central] <'central'> ADJ MF S @N<
+el		[el] <artd> <dem> DET M S @>N
+desarrollo		[desarrollo] <process> <'development'> N M S @<ACC
+de		[de] PRP @N<
+los		[el] <artd> <dem> DET M P @>N
+mercados		[mercado] <Lh> <'market'> N M P @P<
+.
+en=cambio		[en=cambio] <'instead'> ADV @ADVL>
+la		[la] <artd> <dem> DET F S @>N
+integración		[integración] <'integration'> <act> N F S @SUBJ>
+política		[político] <jh> <'politisk'> <'political'> ADJ F S @N<
+podría		[poder] <'can'> V COND VFIN 1/3S @FAUX
+tener		[tener] <vq> <'have'> V INF @IMV @#ICL-AUX<
+un		[un] <quant2> <arti> DET M S @>N
+efecto		[efecto] <ac> <event> <'result'> N M S @<ACC
+opuesto		[oponer] <'oppose'> V PCP M S @N<
+en		[en] PRP @A<ADVL
+el		[el] <artd> <dem> DET M S @>N
+desarrollo		[desarrollo] <process> <'development'> N M S @P<
+de		[de] PRP @N<
+los		[el] <artd> <dem> DET M P @>N
+mercados		[mercado] <Lh> <'market'> N M P @P<
+.
+pero		[pero] <'but'> KC @CO
+ahora		[ahora] <atemp> <'now'> ADV @ADVL>
+parece		[parecer] <'seem'> V PR 3S IND VFIN @FMV
+que		[que] KS @SUB @#FS-<SUBJ
+este		[este] <dem> DET M S @>N
+país		[país] <Lcountry> <'country'> N M S @SUBJ>
+se		[se] <refl> PERS MF 3S/P ACC/DAT @ACC>-PRON
+ha		[haber] <'EXPR:habérselas=con'> <'have'> V PR 3S IND VFIN @FAUX
+metido		[meter] <'introduce'> V PCP M S @IMV @#ICL-AUX<
+en		[en] PRP @<ADV
+problemas		[problema] <sem-c> <'problem'> <sit> <'difficulty'> N M P @P<
+nuevamente		[nuevamente] <atemp> <'again'> ADV @<ADVL
+y		[y] <co-fin> KC @CO
+también		[también] <setop> <'also'> ADV @ADVL>
+desea		[desear] <vq> <'desire'> V PR 3S IND VFIN @FMV
+debilitar		[debilitar] <'debilitate'> V INF @IMV @#ICL-<ACC
+el		[el] <artd> <dem> DET M S @>N
+pacto		[pacto] <'pact'> N M S @<ACC
+.
+y		[y] KC @CO
+china		[chino] <jnat> <'Chinese'> ADJ F S @PRED>
+por		[por] PRP @ADVL>
+su		[su] <poss 3S/P> <si> DET MF S @>N
+parte		[parte] <'part'> N F S @P<
+seguirá		[seguir] <'follow'> V FUT 3S IND VFIN @FAUX
+desarrollando		[desarrollar] <'develop'> V GER @IMV @#ICL-AUX<
+sus		[su] <poss 3S/P> <si> DET MF P @>N
+mercados		[mercado] <Lh> <'market'> N M P @<ACC
+financieros		[financiero] <'financial'> ADJ M P @N<
+y		[y] KC @CO
+su		[su] <poss 3S/P> <si> DET MF S @>N
+capacidad		[capacidad] <f> <'capacity'> N F S @<ACC
+de		[de] PRP @N<
+generar		[generar] <'generate'> V INF @IMV @#ICL-P<
+activos		[activo] <'asset'> <ac> <mon> N M P @<ACC		[activos] <'capital'> N M P @<ACC
+financieros		[financiero] <'financial'> ADJ M P @N<
+de		[de] PRP @N<
+alta		[alto] <'high'> ADJ F S @>N
+calidad		[calidad] <f> <'quality'> N F S @P<
+internamente		[internamente] <aloc> <'internally'> ADV @<ADVL
+.
+claramente		[claramente] <ameta> <'clearly'> <'distinctly'> <'expressly'> ADV @ADVL>
+es		[ser] <'be'> V PR 3S IND VFIN @FMV
+preferible		[preferible] <'preferable'> ADJ MF S @<SC
+la		[la] <artd> <dem> DET F S @>N
+segunda		[segundo] <num-ord> <'second'> ADJ F S @>N
+opción		[opción] <sem-c> <'option'> N F S @<SUBJ
+.
+la		[la] <artd> <dem> DET F S @>N
+crisis		[crisis] <sit> <event> <'crisis'> N F SP @SUBJ>
+financiera		[financiero] <'financial'> ADJ F S @N<
+asiática		[asiático] <'Asian'> ADJ F S @N<
+y		[y] KC @CO
+la		[la] <artd> <dem> DET F S @>N
+devaluación		[devaluación] <'devaluation'> <act> <process> N F S @SUBJ>
+brasileña		[brasileño] <jnat> <'Brazilian'> ADJ F S @N<
+a		[a] PRP @PIV>
+principios		[principio] <sem-c> <'principle'> <'policy'> <temp> <'beginning'> N M P @P<
+de		[de] PRP @N<
+1999		[1999] <card> NUM MF P @P<
+hicieron		[hacer] <vq> <'make'> V PS 3P IND VFIN @FMV
+que		[que] KS @SUB @#FS-<ACC
+el		[el] <artd> <dem> DET M S @>N
+peso		[peso] <f-q> <'weight'> <cur> <'peso'> N M S @SUBJ>
+argentino		[argentino] <jnat> <'Argentine'> ADJ M S @N<
+estuviera		[estar] <va+LOC> <va+QUAL> <'be'> V IMPF 1/3S SUBJ VFIN @FMV
+decididamente		[decididamente] <'decidedly'> ADV @ADVL>A
+sobrevaluado		[sobrevaluar] <'overvalue'> V PCP M S @<SC
+.
+había		[haber] <'EXPR:habérselas=con'> <'have'> V IMPF 1/3S IND VFIN @FAUX
+acumulado		[acumular] <'amass'> V PCP M S @IMV @#ICL-AUX<
+un		[un] <quant2> <arti> DET M S @>N
+déficit		[déficit] <mon> <'deficit'> N M S @<ACC
+de		[de] PRP @N<
+cuenta=corriente		[cuenta=corriente] <Labs> <'current=account'> N F S @P<
+y		[y] <co-fin> KC @CO
+una		[un] <quant2> <arti> DET F S @>N
+carga		[carga] <amount> <sem-c> <'charge'> N F S @<ACC
+de		[de] PRP @N<
+deuda		[deuda] <mon> <'debt'> N F S @P<
+externa		[externo] <'external'> ADJ F S @N<
+que		[que] <rel> SPEC MF SP @SUBJ> @#FS-N<
+eran		[erar] V PR 3P IND VFIN @FMV
+literalmente		[literalmente] <'literatim'> ADV @<ADVL
+de		[de] PRP @<ADVL
+proporciones		[proporción] <'proportion'> <f-q> N F P @P<
+griegas		[griego] <jnat> <'Greek'> ADJ F P @N<
+.
+todo		[todo] <quant0> SPEC M S @SUBJ>
+esto		[esto] <dem> SPEC M S @SUBJ>
+ha		[haber] <'EXPR:habérselas=con'> <'have'> V PR 3S IND VFIN @FAUX
+sido		[ser] <'be'> V PCP M S @IMV @#ICL-AUX<
+posible		[posible] <'possible'> ADJ MF S @<SC
+gracias=a		[gracias=a] <'thanks=to'> PRP @N<
+lo		[lo] <dem> DET M S @P<
+que		[que] <rel> SPEC @ACC> @#FS-N<
+se		[se] <refl> <se-impers> PERS MF 3S/P ACC/DAT @SUBJ>
+ha		[haber] <'EXPR:habérselas=con'> <'have'> V PR 3S IND VFIN @FAUX
+considerado		[considerar] <vq> <'consider'> V PCP M S @IMV @#ICL-AUX<
+vistos		[ver] <'see'> V PCP M P @IMV @#ICL-<ADVL
+los		[el] <artd> <dem> DET M P @>N
+parámetros		[parámetro] <f> <ac> <'parameter'> N M P @<SUBJ
+históricos		[histórico] <'historic'> ADJ M P @N<
+como		[como] PRP @<ADVL
+un		[un] <quant2> <arti> DET M S @>N
+período		[período] <per> <'period'> N M S @P<
+excepcional		[excepcional] <'extraordinary'> ADJ MF S @N<
+de		[de] PRP @N<
+estabilidad		[estabilidad] <f> <'stability'> <'equilibrium'> N F S @P<
+política		[político] <jh> <'politisk'> <'political'> ADJ F S @N<
+.
+hasta		[hasta] PRP @<ADVL
+ahora		[ahora] <atemp> <'now'> ADV @P<
+ni		[ni] <'nor'> KC @FOC>
+en		[en] PRP @ADVL>
+camerún		[camerún] <heur> N M S @P<
+ni		[ni] <'nor'> KC @CO
+en		[en] PRP @ADVL>
+chad		[chad] <heur> N F S @P<		[chad] <heur> N M S @P<
+los		[el] <artd> <dem> DET M P @>N
+gobiernos		[gobierno] <HH> <'government'> N M P @SUBJ>
+han		[haber] <'EXPR:habérselas=con'> <'have'> V PR 3P IND VFIN @FAUX
+estado		[estar] <va+LOC> <va+QUAL> <'be'> V PCP M S @IMV @#ICL-AUX<
+dispuestos		[disponer] <vq> <'dispose'> V PCP M P @<SC
+a		[a] PRP @A<PIV
+publicar		[publicar] <'publish'> V INF @IMV @#ICL-P<
+ningún		[ninguno] <quant2> DET M S @>N
+registro		[registro] <sem-r> <act> <'register'> N M S @<ACC
+de		[de] PRP @N<
+ingresos		[ingresos] <mon> <'proceeds'> N M P @P<		[ingreso] <f-right> <'admission'> <mon> <'income'> N M P @P<
+relativos		[relativo] <'relative'> ADJ M P @N<
+a		[a] <sam1> PRP @<PIV
+el		[el] <artd> <dem> <sam2> DET M S @>N
+proyecto		[proyecto] <sem-c> <'project'> N M S @P<
+de		[de] <sam1> PRP @N<
+el		[el] <artd> <dem> <sam2> DET M S @>N
+oleoducto		[oleoducto] <cc-tube> <cc-tibe> <'pipeline'> N M S @P<
+.
+para		[para] PRP @ADVL>
+empezar		[empezar] <ve> <'begin'> V INF @IMV @#ICL-P<
+ahora		[ahora] <atemp> <'now'> ADV @<ADVL
+estados		[estado] <Lcountry> <'state'> N M P @<SUBJ
+unidos		[unido] <'united'> ADJ M P @N<
+cuenta		[contar] <speak> <vq> <'tell'> <'count'> V PR 3S IND VFIN @FMV
+con		[con] PRP @<PIV
+un		[un] <quant2> <arti> DET M S @>N
+verdadero		[verdadero] <'baal'> N M S @P<
+amigo		[amigo] <'familiar'> ADJ M S @N<
+y		[y] KC @CO
+aliado		[aliar] <'ally'> V PCP M S @N<
+en		[en] PRP @A<ADVL
+el		[el] <artd> <dem> DET M S @>N
+palacio		[palacio] <'palace'> <build> N M S @P<
+de		[de] <sam1> PRP @N<
+el		[el] <artd> <dem> <sam2> DET M S @>N
+elíseo		[elíseo] N M S @P<
+.
+este		[este] <dem> DET M S @>N
+periodo		[periodo] <per> <'period'> N M S @ADVL>
+de		[de] PRP @N<
+tiempo		[tiempo] <'time'> <am> <wea> <per> <temp> <ac-cat> N M S @P<
+daría		[dar] <'give'> V COND VFIN 1/3S @FMV
+tanto		[tanto] <quant2> DET M S @<ACC
+a		[a] PRP @<PIV
+turquía		[turquía] <'turkey'> <Aorn> N F S @P<
+como		[como] <rel> ADV @ADVL @#AS-<ADVL
+a		[a] PRP @ADVL>AS< @AS<
+la		[la] <artd> <dem> DET F S @>N
+unión		[unión] <HHorg> <'union'> N F S @P<
+una		[un] <quant2> <arti> DET F S @>N
+oportunidad		[oportunidad] <event> <'opportunity'> N F S @AS<
+de		[de] PRP @<PRED
+compatibilizar		[compatibilizar] <'harmonize'> V INF @IMV @#ICL-P<
+.
+lo=que		[lo=que] <rel> SPEC M S @SUBJ> @#FS-SUBJ>
+da		[dar] <'give'> V PR 3S IND VFIN @FMV
+origen		[origen] <Labs> <'origin'> N M S @<ACC
+a		[a] PRP @<PIV
+las		[la] <artd> <dem> DET F P @>N
+emociones		[emoción] <'emotion'> <f-psych> N F P @P<
+más		[más] <aquant> <KOMP> ADV @>A
+fuertes		[fuerte] <'strong'> ADJ MF P @<OC
+es		[ser] <'be'> V PR 3S IND VFIN @FMV
+la		[la] <artd> <dem> DET F S @>N
+población		[población] <HH> <'population'> N F S @<SC
+musulmana		[musulmán] <'moslem'> ADJ F S @N<
+de		[de] PRP @N<
+turquía		[turquía] <'turkey'> <Aorn> N F S @P<
+.
+también		[también] <setop> <'also'> ADV @ADVL>
+se		[se] <refl> <se-impers> PERS MF 3S/P ACC/DAT <se-impers> @SUBJ>
+teme		[temer] <vq> <'fear'> V PR 3S IND VFIN @FMV
+que		[que] KS @SUB @#FS-<ACC
+un		[un] <quant2> <arti> DET M S @>N
+día		[día] <temp> <dur> <per> <num+> <'day'> N M S @ACC>
+los		[el] <artd> <dem> DET M P @>N
+islamistas		[islamista] <Hideo> <'islamist'> N MF P @SUBJ>
+conviertan		[convertir] <'convert'> <'change'> V PR 3P SUBJ VFIN @FMV
+a		[a] PRP @<PIV
+turquía		[turquía] <'turkey'> <Aorn> N F S @P<
+en		[en] PRP @<ADVL
+un		[un] <quant2> <arti> DET M S @>N
+estado		[estado] <Lcountry> <'state'> N M S @P<
+fundamentalista		[fundamentalista] <'fundamentalist'> ADJ MF S @N<
+.
+el		[el] <artd> <dem> DET M S @>N
+banco		[banco] <inst> <HHorg> <'bank'> <furn> <'bench'> N M S @SUBJ>
+central		[central] <'central'> ADJ MF S @N<
+europeo		[europeo] <jnat> <'European'> ADJ M S @N<
+establecido		[establecer] <vq> <'establish'> V PCP M S @<PRED
+en		[en] PRP @N<
+1998		[1998] <card> NUM MF P @P<
+tiene		[tener] <vq> <'have'> V PR 3S IND VFIN @FMV
+el		[el] <artd> <dem> DET M S @>N
+mandato		[mandato] <sem-s> <'mandate'> N M S @<ACC
+de		[de] PRP @N<
+administrar		[administrar] <'administer'> V INF @IMV @#ICL-P<
+la		[la] <artd> <dem> DET F S @>N
+nueva		[nuevo] <'new'> ADJ F S @>N
+moneda		[moneda] <cc-h> <'coin'> <mon> <'currency'> N F S @<ACC
+para		[para] PRP @<ADVL
+mantener		[mantener] <vq> <'maintain'> V INF @IMV @#ICL-P<
+la		[la] <artd> <dem> DET F S @>N
+estabilidad		[estabilidad] <f> <'stability'> <'equilibrium'> N F S @<ACC
+de		[de] PRP @N<
+precios		[precios] <'pricing'> N M P @P<		[precio] <f-q> <'price'> N M P @P<
+.
+entre		[entre] <'between'> PRP @ADVL>
+2000		[2000] <card> NUM MF P @P<
+y		[y] KC @CO
+2005		[2005] <card> NUM MF P @P<
+el		[el] <artd> <dem> DET M S @>N
+dólar		[dólar] <num+> <'dollar'> <cur> <ac-sign> N M S @SUBJ>
+perdió		[perder] <'lose'> V PS 3S IND VFIN @FMV
+más		[más] <quant2> <KOMP> DET MF SP @<ACC
+de		[de] <sam1> PRP @KOMP<
+el		[el] <artd> <dem> <sam2> DET M S @>N
+25		[25] <card> NUM MF P @>N
+%		[%] <num+> N M S @P<
+de		[de] PRP @N<
+su		[su] <poss 3S/P> <si> DET MF S @>N
+valor		[valor] <f> <mon> <'value'> N M S @P<
+frente=a		[frente=a] <sam1> <'in=front=of'> PRP @<ADVL @N<
+el		[el] <artd> <dem> <sam2> DET M S @>N
+euro		[euro] <cur> <'euro'> N M S @P<
+.
+ante		[ante] <'before'> PRP @ADVL>
+una		[un] <quant2> <arti> DET F S @>N
+grave		[grave] <'grave'> ADJ MF S @>N
+contracción		[contracción] <process> <'contraction'> N F S @P<
+económica		[económico] <'economic'> ADJ F S @N<
+un		[un] <quant2> <arti> DET M S @>N
+país		[país] <Lcountry> <'country'> N M S @SUBJ>
+puede		[poder] <'can'> V PR 3S IND VFIN @FAUX
+desear		[desear] <vq> <'desire'> V INF @IMV @#ICL-AUX<
+aplicar		[aplicar] <'apply'> V INF @IMV @#ICL-<ACC
+una		[un] <quant2> <arti> DET F S @>N
+política		[política] <sem-c> <'policy'> <'politics'> N F S @<ACC
+keynesiana		[keynesiano] ADJ F S @N<
+tradicional		[tradicional] <'traditional'> ADJ MF S @N<
+mediante		[mediante] <'by=means=of'> PRP @<ADVL @N<
+estímulos		[estímulo] <ac> <act-d> <'stimulus'> <'incentive'> <'encouragement'> N M P @P<
+fiscales		[fiscal] <'fiscal'> ADJ MF P @N<
+en		[en] PRP @N<
+gran		[gran] <'great'> ADJ MF S @>N
+escala		[escala] <ac> <Lh> <'stop'> N F S @P<
+y		[y] KC @CO
+financiados		[financiar] <'fund'> V PCP M P @P<
+mediante		[mediante] <'by=means=of'> PRP @<ADVL @N<
+déficit		[déficit] <mon> <'deficit'> N M S @P<
+.
+además		[además] <kc> <'also'> <'furthermore'> ADV @ADVL>
+la		[la] <artd> <dem> DET F S @>N
+actual		[actual] <'actual'> ADJ MF S @>N
+crisis		[crisis] <sit> <event> <'crisis'> N F SP @SUBJ>
+económica		[económico] <'economic'> ADJ F S @N<
+ha		[haber] <'EXPR:habérselas=con'> <'have'> V PR 3S IND VFIN @FAUX
+hecho		[hacer] <vq> <'make'> V PCP M S @IMV @#ICL-AUX<
+que		[que] KS @SUB @#FS-<ACC
+se		[se] <refl> <se-impers> PERS MF 3S/P ACC/DAT <se-impers> @SUBJ>
+vuelva		[volver] <ve> <'give=back'> V PR 1/3S SUBJ VFIN @FAUX
+a		[a] PRP @PRT-AUX<
+hablar		[hablar] <vq> <'speak'> V INF @IMV @#ICL-AUX<
+de		[de] PRP @<PIV
+la		[la] <artd> <dem> DET F S @>N
+necesidad		[necesidad] <ac> <'necessity'> <f-h> <'need'> N F S @P<
+de		[de] PRP @N<
+que		[que] KS @SUB @#FS-P<
+la		[la] <artd> <dem> DET F S @>N
+unión		[unión] <HHorg> <'union'> N F S @SUBJ>
+europea		[europeo] <jnat> <'European'> ADJ F S @N<
+tenga		[tener] <vq> <'have'> V PR 1/3S SUBJ VFIN @FMV
+competencia		[competencia] <f-psych> <'competence'> <activity> <'competition'> N F S @<ACC
+en		[en] PRP @<PIV
+materia		[materia] <cm> <'matter'> <domain> <'subject'> N F S @P<
+tributaria		[tributario] <'feudatory'> ADJ F S @N<
+.
+los		[el] <artd> <dem> DET M P @>N
+países		[países] N M P @SUBJ>
+con		[con] PRP @N<
+grandes		[grande] <'great'> ADJ MF P @>N
+ingresos		[ingresos] <mon> <'proceeds'> N M P @P<		[ingreso] <f-right> <'admission'> <mon> <'income'> N M P @P<
+podrían		[poder] <'can'> V COND VFIN 3P @FAUX
+considerar		[considerar] <sam1> <vq> <'consider'> V INF @IMV @#ICL-AUX<
+la		[la] <sam2> PERS F 3S ACC @<ACC
+una		[un] <quant2> <arti> DET F S @>N
+razón		[razón] <sem-c> <'reason'> <f-psych> <'right'> N F S @<OC
+suficiente		[suficiente] <'sufficient'> ADJ MF S @N<
+para		[para] PRP @<ADVL
+desear		[desear] <vq> <'desire'> V INF @IMV @#ICL-P<
+retirar		[retirar] <sam1> <'withdraw'> V INF @IMV @#ICL-<ACC
+se		[se] <refl> <sam2> PERS MF 3S/P ACC/DAT @<ACC-PASS
+.
+nunca		[nunca] <atemp> <'never'> ADV @ADVL>
+ha		[haber] <'EXPR:habérselas=con'> <'have'> V PR 3S IND VFIN @FAUX
+sido		[ser] <'be'> V PCP M S @IMV @#ICL-AUX<
+fácil		[fácil] <'easy'> ADJ MF S @<SC
+llegar		[llegar] <ve> <va+LOC> <'arrive'> V INF @IMV @#ICL-<SUBJ
+a		[a] PRP @<ADV
+acuerdos		[acuerdo] <sem-s> <sem-c> <'agreement'> N M P @P<
+económicos		[económico] <'economic'> ADJ M P @N<
+internacionales		[internacional] <'international'> ADJ MF P @N<
+.
+para		[para] PRP @ADVL>
+los		[el] <artd> <dem> DET M P @>N
+ciudadanos		[ciudadano] <H> <'citizen'> N M P @P<
+jóvenes		[jóvenes] ADJ MF P @N<
+los		[el] <artd> <dem> DET M P @>N
+islamistas		[islamista] <Hideo> <'islamist'> N MF P @SUBJ>
+en=particular		[en=particular] <'especially'> ADV @ADVL>
+los		[el] <artd> <dem> DET M P @>N
+canales		[canal] <Lwater> <Lpath> <'channel'> N M P @SUBJ>
+normales		[normal] <'normal'> ADJ MF P @N<
+de		[de] PRP @N<
+participación		[participación] <'participation'> <act> N F S @P<
+política		[político] <jh> <'politisk'> <'political'> ADJ F S @N<
+se		[se] <refl> PERS MF 3S/P ACC/DAT @ACC>-PASS
+han		[haber] <'EXPR:habérselas=con'> <'have'> V PR 3P IND VFIN @FAUX
+cerrado		[cerrar] <'close'> V PCP M S @IMV @#ICL-AUX<
+.
+primero		[primero] <atemp> <'firstly'> ADV @ADVL>
+cuánta		[cuánto] <interr> <quant2> DET M S @>N
+capacidad		[capacidad] <f> <'capacity'> N F S @NPHR
+convencional		[convencional] <'conventional'> ADJ MF S @N<
+para		[para] PRP @ADVL>
+la		[la] <artd> <dem> DET F S @>N
+guerra		[guerra] <per> <act-d> <'war'> N F S @P<
+deben		[deber] <'must'> V PR 3P IND VFIN @FAUX
+conservar		[conservar] <'can'> V INF @IMV @#ICL-AUX<
+los		[el] <artd> <dem> DET M P @>N
+eu		[eu] <heur> N M S @<ACC
+?
+esa		[ese] <dem> DET F S @>N
+estrategia		[estrategia] <sem-c> <'strategy'> N F S @SUBJ>
+ha		[haber] <'EXPR:habérselas=con'> <'have'> V PR 3S IND VFIN @FAUX
+perdurado		[perdurar] <'last'> <'endure'> <'remain'> V PCP M S @IMV @#ICL-AUX<
+sobre		[sobre] <'on'> PRP @<ADVL
+una		[un] <quant2> <arti> DET F S @>N
+base		[base] <Labs> <'base'> <Lh> <'headquarters'> <sem-c> <'basis'> N MF S @P<
+bipartidaria		[bipartidario] <'bipartisan'> ADJ F S @N<
+en		[en] PRP @N<
+estados		[estado] <Lcountry> <'state'> N M P @P<
+unidos		[unido] <'united'> ADJ M P @N<
+y		[y] KC @CO
+las		[la] <artd> <dem> DET F P @>N
+encuestas		[encuesta] <act-s> <'survey'> <'poll'> N F P @SUBJ>
+demuestran		[demostrar] <vq> <'demonstrate'> V PR 3P IND VFIN @FMV
+que		[que] KS @SUB @#FS-<ACC
+aún		[aún] <atemp> <setop> <'still'> ADV @ADVL>
+cuenta		[contar] <speak> <vq> <'tell'> <'count'> V PR 3S IND VFIN @FMV
+con		[con] PRP @<PIV
+una		[un] <quant2> <arti> DET F S @>N
+amplia		[amplio] <'ample'> ADJ F S @>N
+aceptación		[aceptación] <act-s> <'acceptance'> <'approval'> N F S @P<
+en		[en] PRP @<ADVL
+japón		[japón] <heur> N M S @P<
+.
+no=obstante		[no=obstante] <'regardless'> <'nevertheless'> ADV @ADVL>
+la		[la] <artd> <dem> DET F S @>N
+alianza		[alianza] <sit> <HH> <'alliance'> N F S @SUBJ>
+enfrenta		[enfrentar] <ante^vtp> <'confront'> V PR 3S IND VFIN @FMV
+tres		[tres] <card> <'three'> NUM MF P @>N
+desafíos		[desafío] <act> <f-psych> <'defiance'> N M P @<ACC
+importantes		[importante] <'important'> ADJ MF P @N<
+en		[en] PRP @<ADVL
+un		[un] <quant2> <arti> DET M S @>N
+nuevo		[nuevo] <'new'> ADJ M S @>N
+contexto		[contexto] <Labs> <sem-r> <'context'> N M S @P<
+externo		[externo] <'external'> ADJ M S @N<
+.
+qué		[qué] <interr> SPEC M S @SUBJ>
+puede		[poder] <'can'> V PR 3S IND VFIN @FAUX
+evitar		[evitar] <vq> <'prevent'> V INF @IMV @#ICL-AUX<
+que		[que] KS @SUB @#FS-<ACC
+la		[la] <artd> <dem> DET F S @>N
+situación		[situación] <sit> <'situation N F S @SUBJ>
+se		[se] <refl> PERS MF 3S/P ACC/DAT @ACC>-PRON
+deteriore		[deteriorar] <'deteriorate'> V PR 1/3S SUBJ VFIN @FMV
+más		[más] <aquant> <KOMP> ADV @<ADVL
+y		[y] <co-fin> KC @CO
+acabe		[acabe] <'end'> <act> N M S @<ACC
+quizá		[quizá] <'perhaps'> ADV @<ADVL
+en		[en] PRP @<ADVL
+una		[un] <quant2> <arti> DET F S @>N
+crisis		[crisis] <sit> <event> <'crisis'> N F SP @P<
+sistémica		[sistémico] <'systemic'> ADJ F S @N<
+?
+pero		[pero] <'but'> KC @CO
+en		[en] PRP @ADVL
+dónde		[dónde] <interr> <aloc> <'where'> ADV @ADVL> @#FS-P<
+exactamente		[exactamente] <amanner> <'exactly'> ADV @ADVL>
+está		[estar] <va+LOC> <va+QUAL> <'be'> V PR 3S IND VFIN @FMV
+el		[el] <artd> <dem> DET M S @>N
+corazón		[corazón] <anorg> <'heat'> <Labs> <'core'> <'kernel'> N M S @<SC
+de		[de] PRP @N<
+la		[la] <artd> <dem> DET F S @>N
+nueva		[nuevo] <'new'> ADJ F S @>N
+economía		[economía] <domain> <'economy'> N F S @P<
+?
+no		[no] ADV @ADVL>
+es		[ser] <'be'> V PR 3S IND VFIN @FMV
+de		[de] PRP @<SC
+sorprender		[sorprender] <sam1> <'surprise'> V INF @IMV @#ICL-P<
+se		[se] <refl> <sam2> PERS MF 3S/P ACC/DAT @<ACC-PRON
+que		[que] KS @SUB @#FS-<SUBJ
+más		[más] <aquant> <KOMP> ADV @ADVL>
+de		[de] PRP @KOMP<
+la		[la] <artd> <dem> DET F S @>N
+mitad		[mitad] <amount> <'half'> <Labs> <'middle'> N F S @P<
+de		[de] PRP @N<
+las		[la] <artd> <dem> DET F P @>N
+empresas		[empresa] <HHorg> <'compony'> <'enterprise'> <act> <'untertaking'> N F P @P<
+más		[más] <aquant> <KOMP> ADV @>A
+respetadas		[respetado] <'respected'> ADJ F P @N<
+sean		[ser] <'be'> V PR 3P SUBJ VFIN @FMV
+estadounidenses		[estadounidense] <Hnat> <'American'> N MF P @<SC
+.
+por		[por] PRP @ADVL>
+qué		[qué] <interr> SPEC M S @P<
+había		[haber] <'EXPR:habérselas=con'> <'have'> V IMPF 1/3S IND VFIN @FAUX
+de		[de] PRP @PRT-AUX<
+infundir		[infundir] <'inspire'> V INF @IMV @#ICL-AUX<
+la		[la] <artd> <dem> DET F S @>N
+segunda		[segundo] <num-ord> <'second'> ADJ F S @>N
+guerra		[guerra] <per> <act-d> <'war'> N F S @<ACC
+mundial		[mundial] <'worldwide'> ADJ MF S @N<
+confianza		[confianza] <f-psych> <'confidence'> N F S @<ACC
+alguna		[alguno] <quant2> DET F S @N<
+en=el=futuro		[en=el=futuro] <atemp> <'in=the=future'> ADV @<ADVL
+?
+podrían		[poder] <'can'> V COND VFIN 3P @FAUX
+tener		[tener] <vq> <'have'> V INF @IAUX @#ICL-AUX<
+que		[que] KS @PRT-AUX<
+eliminar		[eliminar] <'eliminate'> V INF @IMV @#ICL-AUX<
+subsidios		[subsidio] <'subsidy'> <mon> N M P @<ACC
+que		[que] <rel> SPEC MF SP @ACC> @#FS-N<
+apuntan		[apuntar] <vq> <'aim'> V PR 3P IND VFIN @FMV
+a		[a] PRP @<PIV
+fines		[fin] <temp> <'end'> <sem-c> <'objective'> <event> <'final'> N M P @P<
+equivocados		[equivocado] <'erroneous'> ADJ M P @N<
+para		[para] PRP @<ADVL
+liberar		[liberar] <'liberate'> V INF @IMV @#ICL-P<
+recursos		[recursos] <'money'> N M P @<ACC		[recurso] <ac> <mon> <'resource'> N M P @<ACC
+para		[para] PRP @<ADVL
+programas		[programa] <'program'> <sem-r> <sem-w> <sem-c> N M P @P<
+más		[más] <aquant> <KOMP> ADV @>A
+específicos		[específico] <'special'> ADJ M P @N<
+y		[y] KC @CO
+eficaces		[eficaz] <'effective'> ADJ MF P @N<
+de		[de] PRP @N<
+lucha		[lucha] <activity> <'struggle'> N F S @P<
+contra		[contra] <'against'> PRP @N<
+la		[la] <artd> <dem> DET F S @>N
+pobreza		[pobreza] <f-h> <sit> <'poverty'> N F S @P<
+y		[y] KC @CO
+creación		[creación] <'creation'> <act> N F S @P<
+de		[de] PRP @N<
+empleo		[empleo] <act> <'employment'> N M S @P<
+.
+según		[según] <rel> <ks> <prp> <'according=to'> PRP @ADVL>		[según] <'just=as'> KS @SUB
+el		[el] <artd> <dem> DET M S @>N
+programa		[programa] <'program'> <sem-r> <sem-w> <sem-c> N M S @P<
+mundial		[mundial] <'worldwide'> ADJ MF S @N<
+de		[de] PRP @N<
+alimentos		[alimento] <food-c> <'food'> <'foodstuff'> N M P @P<
+el		[el] <artd> <dem> DET M S @>N
+70		[70] <card> NUM MF P @>N
+%		[%] <num+> N M S @SUBJ>
+de		[de] PRP @N<
+la		[la] <artd> <dem> DET F S @>N
+población		[población] <HH> <'population'> N F S @P<
+carece		[carecer] <'lack'> V PR 3S IND VFIN @FMV
+de		[de] PRP @<PIV
+seguridad		[seguridad] <sit> <f> <'security'> <'safety'> N F S @P<
+alimentaria		[alimentario] <'alimentary'> ADJ F S @N<
+.
+en=teoría		[en=teoría] <'theoretically'> ADV @ADVL>
+en		[en] PRP @ADVL>
+dichas		[dicho] <'said'> ADJ F P @>N
+zonas		[zona] <L> <Lregion> <'zone'> N F P @P<
+se		[se] <refl> <se-impers> PERS MF 3S/P ACC/DAT @SUBJ>
+podría		[poder] <'can'> V COND VFIN 1/3S @FAUX
+eliminar		[eliminar] <'eliminate'> V INF @IMV @#ICL-AUX<
+la		[la] <artd> <dem> DET F S @>N
+mitad		[mitad] <amount> <'half'> <Labs> <'middle'> N F S @<ACC
+aproximadamente		[aproximadamente] <aquant> <'approximately'>¤ ADV <'approximately'> <'about'> @<ADVL
+de		[de] <sam1> PRP @<ADVL
+el		[el] <artd> <dem> <sam2> DET M S @>N
+desfase		[desfase] <per> <'time=lag'> <f> <'phase=difference'> <'skew'> <act-d> <'wrong=timing'> <sit> <'imbalance'> N M S @P<
+educativo		[educativo] <'educational'> ADJ M S @N<
+construyendo		[construir] <'construct'> V GER @IMV @#ICL-<ADVL
+escuelas		[escuela] <inst> <'school'> N F P @<ACC
+para		[para] PRP @<ADVL
+niñas		[niña] <Hbio> <'girl'> N F P @P<
+.
+se		[se] <refl> <se-impers> PERS MF 3S/P ACC/DAT <se-impers> @SUBJ>
+calcula		[calcular] <vq> <'calculate'> V PR 3S IND VFIN @FMV
+que		[que] KS @SUB @#FS-<ACC
+los		[el] <artd> <dem> DET M P @>N
+beneficios		[beneficio] <mon> <ac> <'benefit'> N M P @SUBJ>
+acaban		[acabar] <'end'> V PR 3P IND VFIN @FAUX
+siendo		[ser] <'be'> V GER @IMV @#ICL-AUX<
+seis		[seis] <card> <'six'> NUM MF P @>N
+veces		[vez] <temp> <unit> <'time'> N F P @>A
+mayores		[mayor] <KOMP> <'bigger'> <'major'> ADJ MF P @N<
+que		[que] <rel> SPEC MF SP @ACC>
+los		[el] <artd> <dem> DET M P @>N
+costos		[costo] <mon> <'cost'> <'expense'> N M P @PRED>
+.
+de=hecho		[de=hecho] <'actually'> ADV @ADVL>
+muchos		[mucho] <quant2> <quant3> DET M P @>N
+observadores		[observador] <'observer'> <Hprof> N M P @SUBJ>
+creen		[creer] <vq> <'believe'> V PR 3P IND VFIN @FMV
+que		[que] KS @SUB @#FS-<ACC
+las		[la] <artd> <dem> DET F P @>N
+mujeres		[mujer] <H> <'woman'> <Hfam> <'wife'> N F P @SUBJ>
+determinarán		[determinar] <vq> <'decide'> V FUT 3P IND VFIN @FMV
+el		[el] <artd> <dem> DET M S @>N
+resultado		[resultado] <event> <ac> <'result'> N M S @<ACC
+electoral		[electoral] <'electoral'> ADJ MF S @N<
+.
+las		[la] <artd> <dem> DET F P @>N
+mujeres		[mujer] <H> <'woman'> <Hfam> <'wife'> N F P @SUBJ>
+que		[que] <rel> SPEC MF SP @SUBJ> @#FS-N<
+compiten		[competir] <'compete'> V PR 3P IND VFIN @FMV
+en		[en] PRP @<ADVL
+el		[el] <artd> <dem> DET M S @>N
+mercado		[mercado] <Lh> <'market'> N M S @P<
+laboral		[laboral] <'work'> ADJ MF S @N<
+normalmente		[normalmente] <ameta> <'normally'> ADV @<ADVL
+respaldan		[respaldar] <'reinforce'> <'support'> V PR 3P IND VFIN @FMV
+los		[el] <artd> <dem> DET M P @>N
+esfuerzos		[esfuerzo] <act-d> <'effort'> N M P @<ACC
+por		[por] PRP @<ADVL
+desafiar		[desafiar] <'defy'> V INF @IMV @#ICL-P<
+la		[la] <artd> <dem> DET F S @>N
+doble		[doble] <'dual'> ADJ MF S @>N
+moral		[moral] <sem-c> <'ethics'> <f-psych> N F S @<ACC
+sexual		[sexual] <'sexual'> ADJ MF S @N<
+y		[y] KC @CO
+condenar		[condenar] <'convict'> V INF @IMV @#ICL-P<
+enérgicamente		[enérgicamente] <'actively'> ADV @<ADVL
+el		[el] <artd> <dem> DET M S @>N
+acoso		[acoso] <'harassment'> <'pursuit'> <act-move> N M S @<ACC
+sexual		[sexual] <'sexual'> ADJ MF S @N<
+.
+después=de		[después=de] <'after'> PRP @ADVL>
+todo		[todo] <quant0> SPEC M S @P<
+algunas		[alguno] <quant2> DET F P @>N
+mujeres		[mujer] <H> <'woman'> <Hfam> <'wife'> N F P @SUBJ>
+han		[haber] <'EXPR:habérselas=con'> <'have'> V PR 3P IND VFIN @FAUX
+tenido		[tener] <vq> <'have'> V PCP M S @IMV @#ICL-AUX<
+desde=hace		[desde=hace] PRP @<ADVL
+mucho		[mucho] <quant2> <quant3> DET M S @>N
+tiempo		[tiempo] <'time'> <am> <wea> <per> <temp> <ac-cat> N M S @P<
+la		[la] <artd> <dem> DET F S @>N
+fuerza		[fuerza] <f> <HH> <'force'> N F S @<ACC
+y		[y] KC @CO
+la		[la] <artd> <dem> DET F S @>N
+voluntad		[voluntad] <f-psych> <'will'> <sem-c> <'wish'> N F S @<ACC
+de		[de] PRP @N<
+llegar		[llegar] <ve> <va+LOC> <'arrive'> V INF @IMV @#ICL-P<
+a		[a] PRP @<ADV
+la		[la] <artd> <dem> DET F S @>N
+cima		[cima] <Ltip> <'crest'> <Lmountain> <'summit'> <'peak'> N F S @P<
+.
+como		[como] KS @SUB @#FS-ADVL>
+quiera		[querer] <'want'> <'like'> <'love'> V PR 1/3S SUBJ VFIN @FMV
+que		[que] KS @SUB @#FS-<ACC
+sea		[ser] <'be'> V PR 1/3S SUBJ VFIN @FMV
+los		[el] <artd> <dem> DET M P @>N
+sindicatos		[sindicato] <HH> <'union'> N M P @SUBJ>
+son		[ser] <'be'> V PR 3P IND VFIN @FMV
+un		[un] <quant2> <arti> DET M S @>N
+factor		[factor] <ac> <'factor'> N M S @<SC
+clave		[clave] <'essential'> ADJ MF S @N<
+para		[para] PRP @<ADVL
+la		[la] <artd> <dem> DET F S @>N
+evolución		[evolución] <process> <'evolution'> N F S @P<
+de		[de] PRP @N<
+nuestro		[nuestro] <poss 1P> DET M S @>N
+sistema		[sistema] <'system'> <sem-c> N M S @P<
+económico		[económico] <'economic'> ADJ M S @N<
+en		[en] PRP @N<
+2008		[2008] <card> NUM MF P @P<
+y		[y] KC @CO
+en		[en] PRP @<ADVL
+los		[el] <artd> <dem> DET M P @>N
+años		[año] <dur> <per> <temp> <'year'> N M P @P<
+venideros		[venidero] <'coming'> ADJ M P @N<
+.
+no		[no] ADV @ADVL>
+hay		[haber] <'EXPR:habérselas=con'> <'have'> V PR 3S IND VFIN @FMV
+duda		[duda] <'doubt'> <sem-c> N F S @<ACC
+de		[de] PRP @N<
+que		[que] KS @SUB @#FS-P<
+el		[el] <artd> <dem> DET M S @>N
+mundo		[mundo] <L> <HH> <'world'> N M S @SUBJ>
+ha		[haber] <'EXPR:habérselas=con'> <'have'> V PR 3S IND VFIN @FAUX
+visto		[ver] <'see'> V PCP M S @IMV @#ICL-AUX<
+avances		[avances] <'trailer'> N M P @<ACC
+en		[en] PRP @<ADVL
+algunos		[alguno] <quant2> DET M P @>N
+frentes		[frente] <'front'> <HH> N M P @P<
+en		[en] PRP @<ADVL
+las		[la] <artd> <dem> DET F P @>N
+últimas		[último] <'final'> ADJ F P @>N
+décadas		[década] <'decade'> <per> N F P @P<
+.
+sin=embargo		[sin=embargo] <'however'> ADV @ADVL>
+en=general		[en=general] <'generally'> ADV @ADVL>
+las		[la] <artd> <dem> DET F P @>N
+brechas		[brecha] <act> <Lhole> <'breach'> N F P @SUBJ>
+de		[de] PRP @N<
+desigualdad		[desigualdad] <f> <'inequality'> <'difference'> N F S @P<
+son		[ser] <'be'> V PR 3P IND VFIN @FMV
+grandes		[grande] <'great'> ADJ MF P @<SC
+y		[y] KC @CO
+en		[en] PRP @<ADVL
+muchos		[mucho] <quant2> <quant3> DET M P @>N
+casos		[casos] <'incidence'> <'events'> N M P @P<		[caso] <event> <sem-c> <'case'> N M P @P<
+están		[estar] <va+LOC> <va+QUAL> <'be'> V PR 3P IND VFIN @FAUX
+creciendo		[crecer] <ve> <'grow'> V GER @IMV @#ICL-AUX<
+aún		[aún] <atemp> <setop> <'still'> ADV @>A
+más		[más] <aquant> <KOMP> ADV @<ADVL
+.
+lamentablemente		[lamentablemente] <'regrettably'> ADV @ADVL>
+lo		[lo] <artd> DET M S @>N
+más		[más] <aquant> <KOMP> ADV @>A
+probable		[probable] <'probable'> ADJ MF S @SC>
+es		[ser] <'be'> V PR 3S IND VFIN @FMV
+que		[que] KS @SUB @#FS-<ACC
+la		[la] <artd> <dem> DET F S @>N
+cumbre		[cumbre] <Ltip> <HH> <'top'> <Ltop> <occ> <'summit'> N F S @SUBJ>
+sea		[ser] <'be'> V PR 1/3S SUBJ VFIN @FMV
+una		[un] <quant2> <arti> DET F S @>N
+oportunidad		[oportunidad] <event> <'opportunity'> N F S @<SC
+pérdida		[pérdida] <'loss'> <event> N F S @PRED>
+.
+el		[el] <artd> <dem> DET M S @>N
+calentamiento		[calentamiento] <process> <'heating'> <event> <'warming-up'> N M S @SUBJ>
+planetario		[planetario] <'planetary'> ADJ M S @N<
+en		[en] PRP @N<
+modo		[modo] <ac> <'manner'> <'mode'> N M S @P<
+alguno		[alguno] <quant2> DET M S @N<
+es		[ser] <'be'> V PR 3S IND VFIN @FMV
+nuestra		[nuestro] <poss 1P> DET F S @>N
+principal		[principal] <'principal'> ADJ MF S @>N
+amenaza		[amenaza] <act-s> <'threat'> N F S @<SC
+medioambiental		[medioambiental] <'environmental'> ADJ MF S @N<
+.
+y		[y] KC @CO
+los		[el] <artd> <dem> DET M P @>N
+modelos		[modelo] <ac-cat> <Hprof> <'model'> N MF P @SUBJ>
+económicos		[económico] <'economic'> ADJ M P @N<
+muestran		[mostrar] <vq> <'show'> V PR 3P IND VFIN @FMV
+que		[que] KS @SUB @#FS-<ACC
+francia		[francia] <ac> N F S @SUBJ>
+ha		[haber] <'EXPR:habérselas=con'> <'have'> V PR 3S IND VFIN @FAUX
+perdido		[perder] <'lose'> V PCP M S @IMV @#ICL-AUX<
+tantos		[tanto] <quant2> DET M P @<ACC
+o		[o] KC @CO
+más		[más] <quant2> <KOMP> DET MF SP @>N
+puestos		[puesto] <Lh> <'post'> N M P @<ACC
+de		[de] PRP @N<
+trabajo		[trabajo] <'work'> <'task'> <act-d> <sem> N M S @P<
+a=consecuencia=de		[a=consecuencia=de] <'as=a=consequence=of'> PRP @<ADVL @N<
+los		[el] <artd> <dem> DET M P @>N
+costos		[costo] <mon> <'cost'> <'expense'> N M P @P<
+suplementarios		[suplementario] <'supplemental'> ADJ M P @N<
+de		[de] PRP @N<
+las		[la] <artd> <dem> DET F P @>N
+subvenciones		[subvención] <mon> <'subsidy'> N F P @P<
+.
+esa		[ese] <dem> DET F S @>N
+situación		[situación] <sit> <'situation N F S @SUBJ>
+ha		[haber] <'EXPR:habérselas=con'> <'have'> V PR 3S IND VFIN @FAUX
+persistido		[persistir] <'persist'> V PCP M S @IMV @#ICL-AUX<
+durante		[durante] <'during'> PRP @<ADVL
+dos		[dos] <card> <'two'> NUM MF P @>N
+decenios		[decenio] <per> <'decade'> N M P @P<
+.
+así		[así] <amanner> <'so'> <'thus'> <'this=way'> ADV @ADVL>
+pues		[pues] <kc> <temp> <'then'> <'so'> ADV @ADVL>
+uribe		[uribe] <heur> ADJ MF S @SUBJ>
+no		[no] ADV @ADVL>
+pudo		[poder] <'can'> V PS 3S IND VFIN @FAUX
+defender		[defender] <ante^vtp> <'defend'> V INF @IMV @#ICL-AUX<
+el		[el] <artd> <dem> DET M S @>N
+nuevo		[nuevo] <'new'> ADJ M S @>N
+acuerdo		[acuerdo] <sem-s> <sem-c> <'agreement'> N M S @<ACC
+militar		[militar] <'military'> ADJ MF S @N<
+.
+la		[la] <artd> <dem> DET F S @>N
+forma		[forma] <f> <'form'> <'shape'> N F S @SUBJ>
+en		[en] PRP @ADVL>
+que		[que] <rel> SPEC MF SP @P< @#FS-N<
+se		[se] <refl> PERS MF 3S/P ACC/DAT @ACC>-PRON
+ha		[haber] <'EXPR:habérselas=con'> <'have'> V PR 3S IND VFIN @FAUX
+llevado		[llevar] <vta+DIR> <'take'> V PCP M S @IMV @#ICL-AUX<
+a		[a] PRP @<ADV
+cabo		[cabo] <cc-cord> <'cable'> <'rope'> <Hprof> <'corporal'> <Ltop> <'cape'> <Laps> <'end'> N M S @P<
+el		[el] <artd> <dem> DET M S @>N
+proceso		[proceso] <process> <'process'> <act> <'procedure'> N M S @<ACC
+electoral		[electoral] <'electoral'> ADJ MF S @N<
+en		[en] PRP @N<
+zimbabwe		[zimbabwe] <heur> N M S @P<		[zimbabwe] <heur> N F S @P<
+desde		[desde] PRP @<ADVL
+marzo		[marzo] <month> <per> <'March'> N M S @P<
+ha		[haber] <'EXPR:habérselas=con'> <'have'> V PR 3S IND VFIN @FAUX
+sido		[ser] <'be'> V PCP M S @IMV @#ICL-AUX<
+una		[un] <quant2> <arti> DET F S @>N
+continuación		[continuación] <activity> <'continuation'> N F S @<SC
+no		[no] ADV @>A
+constitucional		[constitucional] <'constitutional'> ADJ MF S @N<
+de		[de] PRP @N<
+un		[un] <quant2> <arti> DET M S @>N
+gobierno		[gobierno] <HH> <'government'> N M S @P<
+.

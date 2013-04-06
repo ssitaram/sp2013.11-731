@@ -1,18 +1,4 @@
-There are three Python programs here (`-h` for usage):
+Initially, I tried a rule based approach suggested in http://acl.ldc.upenn.edu/P/P05/P05-1066.pdf which is to Reorder the input sentence so it has a target-like order, then use the baseline decoder. I parsed the input Spanish sentences using a Spanish parser from http://beta.visl.sdu.dk/visl/es/parsing/automatic/upload.php I processed the parsed results and came up with a rule to flip adjectives and nouns if the adjective modified the noun (by checking for agreement in gender, number) and re-ordered the input based on this rule. However, when I ran the baseline decoder, the results were worse than the baseline, so I gave up on this.
+Then I created a syntax based decoder based on the CYK algorithm, which beat the baseline.
 
- - `./decode` a simple non-reordering (monotone) phrase-based decoder
- - `./grade` computes the model score of your output
-
-The commands are designed to work in a pipeline. For instance, this is a valid invocation:
-
-    ./decode | ./grade
-
-
-The `data/` directory contains the input set to be decoded and the models
-
- - `data/input` is the input text
-
- - `data/lm` is the ARPA-format 3-gram language model
-
- - `data/tm` is the phrase translation model
-
+To run, python newdecode.py
