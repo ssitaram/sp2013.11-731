@@ -22,7 +22,7 @@ for line in inp.split("\n"):
     target = line.split("|||")[1]
     #print(target)
     numwords = len(target.split())
-    rucount = 0
+    rucount = 0.0
     for word in target.split():
         for w in word:
             if w in ru:
@@ -31,13 +31,13 @@ for line in inp.split("\n"):
                 break
     idx = count//100
     #print(idx)
-    for r in ref.split("\n")[idx]:
-        if r == line:
-            ex = 1
-        else:
-            ex = -1
+##    for r in ref.split("\n")[idx]:
+##        if r == line:
+##            ex = 1
+##        else:
+##            ex = -1
     OUT = open("data/devnew.100best", "a")
-    OUT.write(line+" numtgt="+str(numwords)+" numru="+str(rucount)+" ex="+str(ex)+"\n")
+    OUT.write(line+" numtgt="+str(numwords)+" numru="+str(rucount/numwords)+"\n")
     OUT.close()
     count = count + 1
 

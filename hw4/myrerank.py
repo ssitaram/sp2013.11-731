@@ -2,9 +2,11 @@
 import optparse
 import sys
 import bleu
+
 from sklearn import linear_model
 import numpy
 import random
+import os
 OUT = open("test.trans", "w")
 OUT.close()
 
@@ -33,13 +35,19 @@ num_sents = len(all_hyps) / 100
 allindic = []
 alltrainfeats = []
 
+HYPFILE = open("scorehyps", "w")
+HYPFILE.close()
+
+REFFILE = open("scorerefs", "w")
+REFFILE.close()
+
 #generate training examples 
 for s, ref in zip(xrange(0, num_sents), all_ref):
   #get all hyps for single sentence
   hyps_for_one_sent = all_hyps[s * 100:s * 100 + 100]
   count = 0
   ##TODO repeat this 10 times so that num_sents*10 training examples are generated
-  while count < 30:
+  while count < 3:
     count = count + 1
     #get two random hyps
     num1 = random.randint(0, 99)
@@ -66,24 +74,59 @@ for s, ref in zip(xrange(0, num_sents), all_ref):
     if bs1 > bs2:
       indic = 1
     else:
-      indic = -1
-      #maybe ignore the ones that have same bleu score?
+      if bs1 < bs2:
+        indic = -1
+      else:
+          continue
+      #ignore the ones that have same bleu score?
     #get feat values for each pair of features and subtract
     trainfeats = []
     for f1, f2 in zip(feats1.split(), feats2.split()):
       (k1, v1) = f1.split("=")
       (k2, v2) = f2.split("=")
       #print(k1, v1, k2, v2)
-      fdiff = eval(v1) - eval(v2)
+      fdiff = eval(v2) - eval(v1)
       trainfeats.append(fdiff)
     #print(trainfeats)
     allindic.append(indic)
     alltrainfeats.append(trainfeats)
+    
+    HYPFILE = open("scorehyps", "a")
+    HYPFILE.write(hyp1+"\n"+hyp2+"\n")
+    HYPFILE.close()
+    REFFILE = open("scorerefs", "a")
+    REFFILE.write(ref+"\n"+ref+"\n")
+    REFFILE.close()
 
-  
+# score all hyps with meteor
+os.system("java -Xmx1G -jar meteor-1.4/meteor-1.4.jar scorerefs scorehyps | grep Segm > meteorscores")
+indicators = []
+# read meteor scores
+MET=open("meteorscores")
+met = MET.read()
+allMeteorScores=[]
+for line in met.split("\n"):
+  toks=line.split("\t")
+  score=float(toks[1])
+  #print(score)
+  allMeteorScores.append(score)
+MET.close()
+#print(len(alltrainfeats))
+#print(len(allMeteorScores))
+
+for i in range(len(alltrainfeats)):
+  if allMeteorScores[i*2+1] < allMeteorScores[i*2]:
+    val = 1
+  else:
+    val = -1
+  indicators.append(val)
+#print(alltrainfeats)
+#print(indicators)
+#print(len(indicators))
+#print(len(alltrainfeats))
 #response variables
 feats = numpy.array(alltrainfeats)
-ind = numpy.array(allindic)
+ind = numpy.array(indicators)
 #print(feats, ind)
 logreg=linear_model.LogisticRegression(fit_intercept=False, penalty="l2")    
 logreg.fit(feats, ind)
